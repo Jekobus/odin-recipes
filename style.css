@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+ul {
+    background-color: rgb(185, 185, 185);
+    color: #135802;
+    font-size: 30px;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+ol {
+    color: red;
+}
+h1 {
+    color: skyblue;
+}
+p {
+    font-family: "Brush Script MT", cursive;
+    font-size: x-large;
+}
